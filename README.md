@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/26BRGoqbUQvk8nwTC/source.gif" width="300" height="300">
 </p>
 
-## I'm a Husband, Developer, and Chef!
+## I'm a Husband, Developer, and a Chef!
 - 🔭 I’m currently working on an NISA website and content manageing
 - 🌱 I’m currently learning JS and working toward my Bachelor of IT
 - 👯 I’m looking to people with similar or higher level of skills to practice coding and improve both of our skills
