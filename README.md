@@ -1,4 +1,6 @@
 
+![Matrix SVG](../matrix.svg)
+
 
 ## I'm a Husband, Developer, and Chef!
 - 🔭 I’m currently working on an NISA website and content manageing
@@ -10,3 +12,5 @@
 
 ![John Dao's github stats](https://github-readme-stats.vercel.app/api?username=johndao1005&show_icons=true&theme=tokyonight)
 <br/>
+My social media connection:
+- 
