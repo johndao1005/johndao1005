@@ -1,6 +1,6 @@
-
-![Matrix SVG](.\matrix.svg)
-
+<p align="center">
+<img src="https://media.giphy.com/media/26BRGoqbUQvk8nwTC/source.gif" width="300" height="300">
+</p>
 
 ## I'm a Husband, Developer, and Chef!
 - 🔭 I’m currently working on an NISA website and content manageing
