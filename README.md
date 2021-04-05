@@ -1,19 +1,12 @@
 
 
 ## I'm a Husband, Developer, and Chef!
-- 🔭 I’m currently working on an artificial intelligence with mixed realtiy project!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other IT researchers
-- 🥅 2021 Goals: Be a better version of myself 
-- ⚡ Fun fact: I love to play football and hiking
-<br>
-<br>
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/200w.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-</p>
-<br>
-<br>
-<br>
+- 🔭 I’m currently working on an NISA website and content manageing
+- 🌱 I’m currently learning JS and working toward my Bachelor of IT
+- 👯 I’m looking to people with similar or higher level of skills to practice coding and improve both of our skills
+- 🥅 2021 Goals: Finish NISA backbone works, master JS, pass my course with all A
+- ⚡ Fun fact: I love advanture and good fodd
 
-![John Dao's github stats](https://github-readme-stats.vercel.app/api?username=johndao1005&show_icons=true&theme=nightowl)
+
+![John Dao's github stats](https://github-readme-stats.vercel.app/api?username=johndao1005&show_icons=true&theme=tokyonight)
 <br/>
