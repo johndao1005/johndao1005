@@ -15,5 +15,5 @@
 <br>
 <br>
 
-![Kahwaji's github stats](https://github-readme-stats.vercel.app/api?username=alikahwaji&show_icons=true&theme=nightowl)
+![John Dao's github stats](https://github-readme-stats.vercel.app/api?username=johndao1005&show_icons=true&theme=nightowl)
 <br/>
