@@ -1,6 +1,6 @@
-
-![Matrix SVG](https://media.giphy.com/media/l4JyQqyt9S1WTiE6c/giphy-downsized.gif)
-
+<p align="center">
+<img src="https://media.giphy.com/media/l4JyQqyt9S1WTiE6c/giphy.gif" width="300" height="300">
+</p>
 
 ## I'm a Husband, Developer, and Chef!
 - 🔭 I’m currently working on an NISA website and content manageing
