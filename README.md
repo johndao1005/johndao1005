@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/26BRGoqbUQvk8nwTC/source.gif" width="300" height="300">
+<img src="https://media.giphy.com/media/26BRGoqbUQvk8nwTC/source.gif" width="300" height="300" style="background-repeat:repeat-x">
 </p>
 
 ## I'm a Husband, Developer, and a Chef!
