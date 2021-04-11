@@ -1,13 +1,13 @@
 <p align="center">
-<img src="https://media.giphy.com/media/2g8EYDN0VWFMY/source.gif" width="400" height="300" style="background-repeat:repeat-x">
+<img src="https://media.giphy.com/media/26BRGoqbUQvk8nwTC/source.gif" width="900" height="300" style="background-repeat:repeat-x">
 </p>
 
 ## I'm a Husband, Developer, and a Chef!
-- 🔭 I’m currently working on an NISA website and content manageing
+- 🔭 Finding internship job
 - 🌱 I’m currently learning JS and working toward my Bachelor of IT
 - 👯 I’m looking to people with similar or higher level of skills to practice coding and improve both of our skills
 - 🥅 2021 Goals: Finish NISA backbone works, master JS, pass my course with all A
-- ⚡ Fun fact: I love advanture and good fodd
+- ⚡ Fun fact: I love advanture and good food
 
 
 ![John Dao's github stats](https://github-readme-stats.vercel.app/api?username=johndao1005&show_icons=true&theme=tokyonight)
