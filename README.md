@@ -3,7 +3,7 @@
 </p>
 
 ## I'm a Husband, Developer, and a Chef!
-- 🔭 Finding internship job
+- 🔭 Finding internship job => Aiming to be a frontend developer
 - 🌱 I’m currently learning JS and working toward my Bachelor of IT
 - 👯 I’m looking to people with similar or higher level of skills to practice coding and improve both of our skills
 - 🥅 2021 Goals: Finish NISA backbone works, master JS, pass my course with all A
