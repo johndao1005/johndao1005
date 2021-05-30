@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love advanture and good food
 
 Solving code problems is my passion and my hobby  
-![code war stats](https://www.codewars.com/users/johndao1005/badges/small)
+![code war stats](https://www.codewars.com/users/johndao1005/badges/large)
 <br/>
 ![John Dao's github stats](https://github-readme-stats.vercel.app/api?username=johndao1005&show_icons=true&theme=tokyonight)
 <br/>
