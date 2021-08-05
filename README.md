@@ -10,6 +10,7 @@
 - ⚡ Fun fact: I love advanture and good food
 
 Solving code problems is my passion and my hobby, CodeWar and Excercism are my to-go for praticing my coding skills
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndao1005&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![code war stats](https://www.codewars.com/users/johndao1005/badges/large)
 <br/>
