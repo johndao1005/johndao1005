@@ -15,8 +15,10 @@ Solving code problems is my passion and my hobby, CodeWar and Excercism are my t
 <br/>
 ![John Dao's github stats](https://github-readme-stats.vercel.app/api?username=johndao1005&show_icons=true&theme=tokyonight)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndao1005&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndao1005)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=johndao1005)](https://github.com/anuraghazra/github-readme-stats)
+
 My social media connection:
   <a href="https://www.linkedin.com/in/mrjohndao/" ><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> &nbsp; 
 <a href="https://www.facebook.com/John.dao95" ><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>  <br>
