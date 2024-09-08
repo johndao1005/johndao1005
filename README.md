@@ -3,9 +3,9 @@
 </p> -->
 
 ## I'm a Husband, Developer, and a Chef!
-- 🔭 Finding internship job => Aiming to be a frontend developer
-- 🌱 I’m currently working toward my Bachelor of IT and learning about React ecosystem.
-- 🥅 2022 Goals: Survive my second year 😅 master React native and other important library relate to React 
+- 🔭 Learning about Power Platform and Azure ecosystem.
+- 🌱 I’m currently working on side project but happy to be side track and learn something new
+- 🥅 2024 Goals: Hopefully finish my side project 
 - ⚡ Fun fact: I love advanture and good food
 
 Solving code problems is my passion and my hobby, CodeWar and Excercism are my to-go for praticing my coding skills  
