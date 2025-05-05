@@ -5,7 +5,7 @@
 ## I'm a Husband, Developer, and a Chef!
 - 🔭 Learning about Power Platform and Azure ecosystem.
 - 🌱 I’m currently working on side project but happy to be side track and learn something new
-- 🥅 2024 Goals: Hopefully finish my side project 
+- 🥅 2025 Goals: Hopefully finish my side project 
 - ⚡ Fun fact: I love advanture and good food
 
 Solving code problems is my passion and my hobby, CodeWar and Excercism are my to-go for praticing my coding skills  
